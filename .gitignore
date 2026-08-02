@@ -1,0 +1,18 @@
+# Uploaded Files & Assets
+assets/uploads/*
+!assets/uploads/.gitkeep
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# OS Generated
+desktop.ini
+
+# Database & Environment backups
+*.sql
+*.env
